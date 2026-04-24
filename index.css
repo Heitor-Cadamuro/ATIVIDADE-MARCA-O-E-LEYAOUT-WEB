@@ -108,3 +108,15 @@ transition: transform 0.3s ease;
 #sobre, #programa, #palestrantes, #inscricao {
   animation: pulsar-flutuar 3s ease-in-out infinite, brilhar 3s ease-in-out infinite;
 }
+#form input, #form button {
+  border: none;
+  border-radius: 5px;
+}
+footer {
+  background: linear-gradient(to top, #69d46f, #2b8423);
+  color: rgb(201, 217, 206);
+  padding: 20px;
+  text-align: center;
+  margin-top: 40px;
+  border-radius: 10px;
+}
