@@ -60,7 +60,7 @@ header {
   transition: transform 0.25s ease;
 }
 #programa {
-  background: linear-gradient(to bottom, #fdfffe, #056105);
+  background: linear-gradient(to bottom, #fdfffe, #d1f7d1);
   padding: 20px;
   color: rgb(5, 87, 26);
   margin: 20px auto;
@@ -74,13 +74,14 @@ header {
   transition: transform 0.25s ease;
 }
 #palestrantes {
-  background: linear-gradient(to bottom, #fdfffe, #056105);
+  background: linear-gradient(to bottom, #fdfffe, #969e96);
   padding: 20px;
   color: azure;
   margin: 20px auto;
   border-radius: 10px;
   max-width: 800px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  border-left: #084e08 10px solid;
 }
 #inscricao {
   background: linear-gradient(to bottom, #083a02, #056105);
