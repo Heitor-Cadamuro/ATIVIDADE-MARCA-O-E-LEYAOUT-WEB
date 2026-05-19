@@ -1,0 +1,32 @@
+.body {
+    background-color: darkgrey;
+}
+#container_ex1{
+    background-color: rgb(176, 140, 94);
+    width: 600px;
+    height: 600px;
+    display: flex;
+}
+
+#container_ex1 .filho {
+    background-color: blue;
+    flex-grow: 1;
+    width: 60px;
+    height: 60px;
+
+}
+
+#container_ex1 .filho2{
+background-color: red;
+    flex-grow: 1;
+    width: 60px;
+    height: 60px;
+
+}
+#container_ex1 .filho3{
+background-color: green;
+    flex-grow: 1;
+    width: 60px;
+    height: 60px;
+}
+

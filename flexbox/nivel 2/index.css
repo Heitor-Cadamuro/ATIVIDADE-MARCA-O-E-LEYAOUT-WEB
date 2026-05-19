@@ -1,0 +1,33 @@
+body {
+    background-color: darkgrey;
+}
+#container_ex1{
+    background-color: antiquewhite;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+}
+#container_ex1 .filho {
+    background-color: blue;
+    height: 60px;
+    width: 60px;
+   
+}
+#container_ex1 .filho2{
+background-color: red;
+height: 60px;
+width: 60px;
+}
+#container_ex1 .filho3{    
+background-color: green;
+height: 60px;
+width: 60px;
+}
+#container_ex1 .filho4{
+background-color: yellow;
+height: 60px;
+width: 60px;
+}
+ 
+
